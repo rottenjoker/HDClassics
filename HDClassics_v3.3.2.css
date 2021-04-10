@@ -1,9 +1,10 @@
 /*!
  * Theme Name:     HDClassics
  * Version:        3.3.2
- * Last Updated:   27 December 2020
+ * Last Updated:   10 April 2021
  * Notes:          Ensure stylesheet is set to (default) in profile settings when in use
- * Notes by rottenjoker: Re-hosted images in imgur to GitHub.
+ * Notes by rottenjoker:
+  - Re-hosted images in imgur to GitHub.
  */
 /* Main top-level elements */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
